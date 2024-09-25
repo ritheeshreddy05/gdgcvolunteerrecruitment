@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import ItemList from '../itemlist/ItemList';
-import Cart from '../cart/Cart';
+import ItemList from './ItemList';
+import Cart from './Cart';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function Global() 
