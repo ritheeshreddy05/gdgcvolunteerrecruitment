@@ -7,6 +7,8 @@ This section outlines how the application works and the steps to interact with i
 2. Browse Products:  
    - The homepage will display a list of products fetched from the Fake Store API. 
    - Each product will show its image, name, price, and an “Add to Cart” button.
+   - ![image](https://github.com/user-attachments/assets/681cfeef-7613-421c-b898-805d07b052ef)
+
 
 3. Add Items to the Cart:  
    - Click on the **"Add to Cart"** button beneath any product to add it to your shopping cart. 
